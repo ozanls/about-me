@@ -1,0 +1,22 @@
+h1{
+	font-family: "Tomorrow", sans-serif;
+	font-weight: 600;
+	font-size:2em;
+	color:blue;
+}
+
+h2{
+	font-family: "Tomorrow", sans-serif;
+	font-weight: 600;
+	font-size:1em;
+}
+
+p{
+	font-family: "Tomorrow", sans-serif;
+	font-weight: 300;
+	font-size:1em;
+}
+
+body{
+	background-color:silver;
+}
